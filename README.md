@@ -1,5 +1,5 @@
 # __KGA TOOLBOX__
-![Alt text](https://github.com/sophon-pro/kgatoolbox/blob/main/KGA%20Toolbox%20Logo.png)
+![Alt text](https://github.com/sophon-pro/kgatoolbox/blob/main/asset/KGA%20Toolbox%20Logo.png)
 ## __Toolbox Overview__
 The __KGA Toolbox__ is a powerful, all-in-one geoprocessing solution designed to accelerate and enhance GIS workflows in land management, cadastral processing, and spatial data quality assurance. Built for ArcGIS Pro, the toolbox brings together a wide range of essential tools—spanning data creation, data management, topology validation, spatial analysis, and automated quality checks—into one streamlined and easy-to-use package.
 
