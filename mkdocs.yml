@@ -5,6 +5,10 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand        
+    - navigation.sections      
+    - navigation.indexes       
+    - navigation.path          
     - toc.integrate
     - navigation.top
     - search.suggest
