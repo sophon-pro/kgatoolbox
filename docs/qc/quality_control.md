@@ -1,4 +1,6 @@
-# __Pricing__
+# __Quality Control__
+
+![Quality Control](../assets/qc.png)
 
 __Purchase Toolbox__
 

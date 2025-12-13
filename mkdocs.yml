@@ -1,45 +1,118 @@
 site_name: KGA Toolbox
 site_url: https://example.com
+
 theme:
   name: material
+  language: en
+
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.expand        
-    - navigation.sections      
-    - navigation.indexes       
-    - navigation.path          
-    - toc.integrate
+    - navigation.indexes
+    - navigation.path
     - navigation.top
+
+    # TOC
+    - toc.follow
+
+    # Search
     - search.suggest
     - search.highlight
+
+    # Content
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
 
-  language: en
   palette:
     - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
       primary: teal
-      accent: purple 
-    - scheme: slate 
+      accent: purple
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    - scheme: slate
       primary: teal
       accent: lime
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
 nav:
   - Overview: index.md
-  - Tool: tool.md
+  - Toolset:
+      - Getting Start: getting_start.md
+      - Coordinate System: 
+          - Vector Projection: coordinate_system.md
+      - Data Creation: 
+          - Data Creation Toolset: dataCreations/data_creation.md
+          - Boundary Point: dataCreations/boundary_point.md
+          - Create LMAP Layer: dataCreations/create_lmap.md
+          - Point to Polygon: dataCreations/point_to_polygon.md
+          - Polygon to Central Point: dataCreations/polygon_to_central_point.md
+          - Polygon to Line (Multiple): dataCreations/polygon_to_line_mult.md
+          - Polygon to Point-Line for Map Series: dataCreations/polygon_pointline_mapseries.md
+      - Data Management: 
+          - Data Management Toolset: dataManagement/data_management.md
+          - Batch Add Feild: dataManagement/batch_add_field.md
+          - Copy Parcels to GDB: dataManagement/parcel_to_GDB.md
+          - Count Feature: dataManagement/count_feature.md
+          - Export Table to CSV: dataManagement/table_to_csv.md
+      - Geoprocessing: 
+          - Geoprocessing Toolset: geoprocessing/geoprocessing.md
+          - Clip (Multiple): geoprocessing/clip.md
+          - Multi-Ring Buffer: geoprocessing/multiring_buffer.md
+          - Percentage Coverage: geoprocessing/percentage_coverage.md
+          - Trim Parcel by Road Edge: geoprocessing/trim_parcel.md
+      - Quality Control: 
+          - Quality Control Toolset: qc/quality_control.md
+          - Parcel Data Cleaning: qc/parcel_clearning.md
+          - Parcel Duplicate Number Finder: qc/dup_num_check.md
+          - Parcel Field Format: qc/parcel_field_format.md
+          - Parcel Number Analyzer: qc/parcel_num_analyzer.md
+          - Parcel Overlap Check: qc/parcel_overlap_check.md
+      - Spatial Analysis: 
+          - Spatial Analysis Toolset: sa/spatial_analysis.md
+          - Generate Spot Height: sa/spot_height.md
+          - P2P Direction Distance: sa/direction_distance.md
+      - Topology Check: 
+          - Topology Check Toolset: topo/topology.md
+          - Add Feature to Topology: topo/add_fcto_topo.md
+          - Boundary Overlap Check: topo/bound_overlap_check.md
+          - Boundary Point Check: topo/bound_point_check.md
+          - Topology Check: topo/topo_check.md
   - Pricing: pricing.md
   - About Us: about_us.md
-  
+
 plugins:
-  - social
   - search
+  - social
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+  - pymdownx.arithmatex:
+      generic: true
+
+  - toc:
+      permalink: true
+      toc_depth: 2-3
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
   social:
@@ -50,19 +123,8 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/willettjames/
 
-markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - admonition
-  - pymdownx.arithmatex:
-      generic: true
-  - footnotes
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.mark
-  - attr_list
-
 copyright: |
-  &copy; 2025 <a href="https://github.com/sophon-pro"  target="_blank" rel="noopener">Sophon-Pro</a>
+  &copy; 2025
+  <a href="https://github.com/sophon-pro" target="_blank" rel="noopener">
+    Sophon-Pro
+  </a>

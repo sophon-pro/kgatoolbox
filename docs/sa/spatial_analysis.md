@@ -1,4 +1,5 @@
-# __Pricing__
+
+![Spatial Analysis](../assets/sa.png)
 
 __Purchase Toolbox__
 

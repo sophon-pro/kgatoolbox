@@ -1,4 +1,5 @@
-# __Pricing__
+
+![topology](../assets/topo.png)
 
 __Purchase Toolbox__
 

@@ -1,8 +1,6 @@
-# __About Us__
+__Khmer GRS Academy (KGA)__ គឺជាស្ថាប័នអប់រំមួយ ដែលមានទីតាំងស្ថិតនៅភ្នំពេញ ប្រទេសកម្ពុជា។ បង្កើតឡើងក្នុងឆ្នាំ 2020 KGA មានឯកទេសក្នុងការបណ្តុះបណ្តាល និងផ្តល់សេវាកម្មលើ __ប្រព័ន្ធព័ត៌មានភូមិសាស្រ្ត (GIS)__។ បេសកកម្មរបស់យើងគឺផ្តល់នូវការហ្វឹកហ្វឺនចំណេះជំនាញ ដល់អ្នកសិក្សា ទាំងបុគ្គលនិងអង្គភាពផ្សេងៗ ឲ្យមានជំនាញ និងដំណោះស្រាយថ្មីៗទាក់ទងនឹង GIS ច្បាស់លាស់ ដើម្បីបម្រើដល់ការអភិវឌ្ឍសង្គមកម្ពុជា។
 
-Khmer GRS Academy (KGA) គឺជាស្ថាប័នអប់រំមួយ ដែលមានទីតាំងស្ថិតនៅភ្នំពេញ ប្រទេសកម្ពុជា។ បង្កើតឡើងក្នុងឆ្នាំ 2020 KGA មានឯកទេសក្នុងការបណ្តុះបណ្តាល និងផ្តល់សេវាកម្ម លើប្រព័ន្ធព័ត៌មានភូមិសាស្រ្ត (GIS)។ បេសកកម្មរបស់យើងគឺផ្តល់នូវការហ្វឹកហ្វឺនចំណេះជំនាញ ដល់អ្នកសិក្សា ទាំងបុគ្គលនិងអង្គភាពផ្សេងៗ ឲ្យមានជំនាញ និងដំណោះស្រាយថ្មីៗទាក់ទងនឹង GIS ច្បាស់លាស់ ដើម្បីបម្រើដល់ការអភិវឌ្ឍសង្គមកម្ពុជា។
-
-![kga logo](KGA.png)
+![kga logo](assets/KGA.png)
 
 ## __អ្វីដែលយើងផ្តល់ឲ្យ__
 
@@ -24,15 +22,15 @@ Khmer GRS Academy (KGA) គឺជាស្ថាប័នអប់រំមួ�
 
 សេវាកម្មទាំងនេះនឹងជួយសម្រួលដល់អាជីវកម្ម អ្នកស្រាវជ្រាវ និងស្ថាប័ន ធ្វើការលើទិន្នន័យភូមិសាស្ត្របានយ៉ាងមានប្រសិទ្ធភាព។
 
-![mapping image](mapping.png)
+![mapping image](assets/mapping.png)
 
 ### __ឱកាសអាហារូបករណ៍__
 ដើម្បីជំរុញការអប់រំ និងការប្រើប្រាស់ GIS​ កាន់តែទូលំទូលាយ, KGA បានផ្តល់អាហារូបករណ៍ដល់សិស្សនិស្សិតដែលបង្ហាញពីចំណាប់អារម្មណ៍ខ្លាំងលើផែនទី និងបច្ចេកវិទ្យាភូមិសាស្រ្ត។ រយៈពេលនៃការដំណើរការនេះមានគោលបំណងបណ្តុះអ្នកជំនាញ GIS ជំនាន់ក្រោយនៅកម្ពុជា។
 
-![scholarship](scholarship.jpg)
+![scholarship](assets/scholarship.jpg)
 
 ## __បណ្តាញសង្គមរបស់យើង__
-Khmer GRS Academy ប្រើប្រាស់បណ្តាញសង្គមមួយចំនួនដើម្បីចែករំលែកចំណេះដឹង GIS រួមមាន
+```Khmer GRS Academy``` ប្រើប្រាស់បណ្តាញសង្គមមួយចំនួនដើម្បីចែករំលែកចំណេះដឹង GIS រួមមាន
 
 - [Facebook Page: Khmer GRS Academy]{:target="_blank"}
 - [YouTube Channel: Khmer GIS Academy]{:target="_blank"}
@@ -50,14 +48,25 @@ Khmer GRS Academy ប្រើប្រាស់បណ្តាញសង្គ�
 
 - **Phone**: +855 81 373 833
 - **Email**: academy@khmergrs.com
-- **Address**: Building No. 48, Street 289, Boeung Kak II, Toul Kork District, Phnom Penh, Cambodia
+- **Telegram**: [t.me/khmergrsacademy]{:target="_blank"}
 
-![kga location](kga location.png)
+## __ទីតាំងសាលា__
 
-[ចុចមើលទីតាំងលើ Google Map]{:target="_blank"}
+អគារ SP ជាន់ទី១ បន្ទប់ ១G ទល់មុខទីស្តីការក្រសួងសុខាភិបាល
 
-[ចុចមើលទីតាំងលើ Google Map]:https://maps.app.goo.gl/sPpWC6pLUS5HiBNCA
+**Address**: Street 289, Boeung Kak II, Toul Kork District, Phnom Penh, Cambodia
+
+<iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4809.499175268042!2d104.89702201140477!3d11.575321943901114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310951003092289b%3A0x471125801998e4d7!2sKhmer%20GRS%20Academy!5e1!3m2!1sen!2skh!4v1765607729940!5m2!1sen!2skh" 
+    width="600" 
+    height="450" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+</iframe>
 
 ចូលទៅកាន់គេហទំព័ររបស់យើង: [khmergrs.com]{:target="_blank"}
 
+[t.me/khmergrsacademy]: t.me/khmergrsacademy
 [khmergrs.com]: https://www.khmergrs.com/

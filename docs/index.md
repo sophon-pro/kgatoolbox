@@ -1,5 +1,5 @@
 # __Overview__
-![KGA Toolbox Logo](kgatoolbox.png)
+![KGA Toolbox Logo](assets/kgatoolbox.png)
 
 ## __Toolbox Overview__
 The __KGA Toolbox__ is a powerful, all-in-one geoprocessing solution designed to accelerate and enhance GIS workflows in land management, cadastral processing, and spatial data quality assurance. Built for ArcGIS Pro, the toolbox brings together a wide range of essential tools—spanning data creation, data management, topology validation, spatial analysis, and automated quality checks—into one streamlined and easy-to-use package.
@@ -40,3 +40,7 @@ Designed for teams and organizations that rely on consistent, repeatable geoproc
 - Improves data accuracy with built-in quality control and topology checks
 - Accelerates project turnaround with automated, repeatable tools
 - Designed for GIS professionals who manage complex land information datasets
+
+__Purchase Toolbox__
+
+[Send :fontawesome-solid-paper-plane:](https:t.me/khmergrsacademy){ .md-button }
