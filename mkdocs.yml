@@ -84,6 +84,7 @@ nav:
           - Topology Check: topo/topo_check.md
   - Pricing: pricing.md
   - About Us: about_us.md
+  - Feedback: feedback.md
 
 plugins:
   - search
@@ -116,12 +117,21 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
+    - icon: fontawesome/solid/globe
+      link: https://www.khmergrs.com
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/khmergisacademy
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@Khmergisacademy
+    - icon: fontawesome/brands/telegram
+      link: http://t.me/khmergisacademychannel
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@khmergrsacademy
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
+      link: https://linkedin.com/company/khmer-grs-academy
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/khmergrsacademy/
+
 
 copyright: |
   &copy; 2025

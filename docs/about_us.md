@@ -30,32 +30,31 @@ __Khmer GRS Academy (KGA)__ គឺជាស្ថាប័នអប់រំម�
 ![scholarship](assets/scholarship.jpg)
 
 ## __បណ្តាញសង្គមរបស់យើង__
-```Khmer GRS Academy``` ប្រើប្រាស់បណ្តាញសង្គមមួយចំនួនដើម្បីចែករំលែកចំណេះដឹង GIS រួមមាន
+__Khmer GRS Academy__ ប្រើប្រាស់បណ្តាញសង្គមមួយចំនួនដើម្បីចែករំលែកចំណេះដឹង GIS រួមមាន
 
-- [Facebook Page: Khmer GRS Academy]{:target="_blank"}
-- [YouTube Channel: Khmer GIS Academy]{:target="_blank"}
-- [TikTok]{:target="_blank"}
-- [Telegram Channel]{:target="_blank"}
+- :fontawesome-solid-globe: [Website](https://www.khmergrs.com){:target="_blank"}
+- :fontawesome-brands-facebook: [Facebook Page](https://www.facebook.com/khmergisacademy/){:target="_blank"}
+- :fontawesome-brands-youtube: [YouTube Channel](https://www.youtube.com/c/KhmerGISAcademy/){:target="_blank"}
+- :fontawesome-brands-tiktok: [TikTok](https://www.tiktok.com/@khmergrsacademy){:target="_blank"}
+- :fontawesome-brands-telegram: [Telegram Channel](http://t.me/khmergisacademychannel){:target="_blank"}
+- :fontawesome-brands-linkedin: [LinkedIn](https://linkedin.com/company/khmer-grs-academy){:target="_blank"}
+- :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/khmergrsacademy/){:target="_blank"}
 
-តាមដានយើង ដើម្បីទទួលបានព័ត៌មានបន្ថែមអំពីវគ្គសិក្សា និងចំណេះដឹងផ្សេងៗ
-
-[Facebook Page: Khmer GRS Academy]:https://www.facebook.com/khmergisacademy/
-[YouTube Channel: Khmer GIS Academy]:https://www.youtube.com/c/KhmerGISAcademy/videos
-[TikTok]:https://www.tiktok.com/@khmergrsacademy
-[Telegram Channel]:https://t.me/s/khmergrsacademychannel
+តាមដានយើង ដើម្បីទទួលបានព័ត៌មានបន្ថែមអំពីវគ្គសិក្សា និងចំណេះដឹងផ្សេងៗ។
 
 ## __ទំនាក់ទំនងព័ត៌មានបន្ថែម__
 
-- **Phone**: +855 81 373 833
-- **Email**: academy@khmergrs.com
-- **Telegram**: [t.me/khmergrsacademy]{:target="_blank"}
+- :fontawesome-solid-phone: __+855 81 373 833__
+- :fontawesome-solid-envelope: academy@khmergrs.com
+- :fontawesome-brands-telegram: [Admin Telegram](https://t.me/khmergrsacademy){:target="_blank"}
 
 ## __ទីតាំងសាលា__
 
-អគារ SP ជាន់ទី១ បន្ទប់ ១G ទល់មុខទីស្តីការក្រសួងសុខាភិបាល
+[អគារ SP ជាន់ទី១ បន្ទប់ ១G](https://maps.app.goo.gl/VvxDfbTW9yKGEw9m9){:target="_blank"} ទល់មុខ [ទីស្តីការក្រសួងសុខាភិបាល](https://maps.app.goo.gl/7sLGcyLaiGSghaxJ8){:target="_blank"}
 
 **Address**: Street 289, Boeung Kak II, Toul Kork District, Phnom Penh, Cambodia
 
+មើលទីតាំងសាលាលើ​ [Google Map](https://maps.app.goo.gl/knRqNJ1CF8uG82du5){:target="_blank"}
 <iframe 
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4809.499175268042!2d104.89702201140477!3d11.575321943901114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310951003092289b%3A0x471125801998e4d7!2sKhmer%20GRS%20Academy!5e1!3m2!1sen!2skh!4v1765607729940!5m2!1sen!2skh" 
     width="600" 
@@ -65,8 +64,3 @@ __Khmer GRS Academy (KGA)__ គឺជាស្ថាប័នអប់រំម�
     loading="lazy" 
     referrerpolicy="no-referrer-when-downgrade">
 </iframe>
-
-ចូលទៅកាន់គេហទំព័ររបស់យើង: [khmergrs.com]{:target="_blank"}
-
-[t.me/khmergrsacademy]: t.me/khmergrsacademy
-[khmergrs.com]: https://www.khmergrs.com/

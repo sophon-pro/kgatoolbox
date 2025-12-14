@@ -1,12 +1,18 @@
+## __Indian To WGS 1984 UTM Converter__
+
+## Tool Objective
 Project Dataset from `Indian Datum` to `WGS 1984 UTM Zone 48N` and vise versa.
 
-### __Indian To WGS 1984 UTM Converter__
-
+## Summary
 Projects spatial datasets between `Indian datums` (Indian 1954, 1960, and 1975) and `WGS 1984 coordinate systems`, supporting both `geographic (GCS)` and `projected (UTM Zone 48N)` transformations. This tool enabled seamless integration of spatial datasets stored in legacy Indian datums with modern WGS84 datasets (and vice versa). 
 
 ![Indian to WGS 1984 UTM Converter](assets/indian_utm.png)
 
-__Usage Notes__
+### Illustration
+
+![coordinate system](assets/coordinate_sys_ill.png)
+
+### Usage Notes
 
 - Choose the `Input Feature`.
 - The `Source Coordinate System` is auto detected from the dataset (tool won’t run if the coordinate reference system of input feature is __Unknown__)
@@ -25,7 +31,17 @@ __Usage Notes__
 
 - Output dataset with the projected CRS.
 
-__Tool Demo__
+### Parameters
+This tool comes with four importance parameters.
+
+| Parameter | Explanation | Data Type |
+|:---------|:------------|:----------|
+| Input_Feature | Dataset to be projected | GPFeatureLayer |
+| Input_Coordinate_System (Optional) | <strong>Auto-filled from Input Feature.</strong> The tool will not run if the coordinate reference system is unknown. | GPCoordinateSystem |
+| Output_Feature_Class | Location and name of the transformed dataset | DEFeatureClass |
+| Choose_Target_PCS | <strong>Target CRS.</strong> Supports both WGS84 (GCS or UTM) and Indian (GCS or UTM). | GPCoordinateSystem |
+
+### Tool Demo
 
 Learn how to use the tool
 
@@ -39,6 +55,8 @@ Learn how to use the tool
   allowfullscreen>
 </iframe>
 
-__Purchase Toolbox__
+### Purchase Toolbox
 
-[Send :fontawesome-solid-paper-plane:](https:t.me/khmergrsacademy){ .md-button }
+See toolbox [license package](pricing.md).
+
+[Contact Sale :fontawesome-solid-paper-plane:](https://t.me/khmergrsacademy){ .md-button target="_blank" rel="noopener"}

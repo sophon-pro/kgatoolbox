@@ -1,3 +1,6 @@
+## Goal
+Create ```boundary point``` from an input ```polygon boundary```.
+
 ## Summary
 __Boundary Point Tool__ converts polygon boundaries into point features representing each vertex along the polygon’s perimeter. It is designed to support land parcel management, topology validation, and boundary-based analyses by generating accurate, georeferenced point features from polygon geometries. 
 
@@ -22,9 +25,9 @@ This tool has three importances parameters as show in the table below.
 
 | Parameter | Explanation | Data Type |
 |----------|-------------|-----------|
-| Input_Boundary_Polygon | Dialog Reference<br>The polygon feature class from which boundary vertices will be extracted.<br><br> | GPMultiValue |
-| Drop_unrelated_fields? (Optional) | Dialog Reference<br>Option to drop all fields inherited from the input layer in the output point dataset.<br><br>**Check:** Only essential system and geometry-related fields will be retained in the output feature class. All additional user-defined attribute fields from the input polygon will be removed.<br><br>**Uncheck:** Keep all fields.<br><br> | GPBoolean |
-| Output_Workspace | Dialog Reference<br>The workspace to store the output point feature class.<br><br> | GPComposite |
+| Input_Boundary_Polygon | The polygon feature class from which boundary vertices will be extracted.<br> | GPMultiValue |
+| Drop_unrelated_fields? (Optional) | Option to drop all fields inherited from the input layer in the output point dataset.<br><br>**Check:** Only essential system and geometry-related fields will be retained in the output feature class. All additional user-defined attribute fields from the input polygon will be removed.<br><br>**Uncheck:** Keep all fields.<br> | GPBoolean |
+| Output_Workspace | The workspace to store the output point feature class.<br> | GPComposite |
 
 ## Limitations
 
@@ -48,4 +51,6 @@ Learn how to use the tool
 
 ## Purchase Toolbox
 
-[Contact Sale :fontawesome-solid-paper-plane:](https:t.me/khmergrsacademy){ .md-button }
+See toolbox [license package](pricing.md).
+
+[Contact Sale :fontawesome-solid-paper-plane:](https://t.me/khmergrsacademy){ .md-button target="_blank" rel="noopener"}

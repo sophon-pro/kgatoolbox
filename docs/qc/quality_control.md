@@ -4,4 +4,4 @@
 
 __Purchase Toolbox__
 
-[Send :fontawesome-solid-paper-plane:](https:t.me/khmergrsacademy){ .md-button }
+[Contact Sale :fontawesome-solid-paper-plane:](https://t.me/khmergrsacademy){ .md-button target="_blank" rel="noopener"}
