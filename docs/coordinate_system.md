@@ -1,6 +1,6 @@
 ## __Indian To WGS 1984 UTM Converter__
 
-## Tool Objective
+## Goal
 Project Dataset from `Indian Datum` to `WGS 1984 UTM Zone 48N` and vise versa.
 
 ## Summary
