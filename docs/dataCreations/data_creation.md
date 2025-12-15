@@ -15,7 +15,7 @@ __Data Creation Toolset__ consists of 6 tools including:
 
 __Purchase Toolbox__
 
-See toolbox [license package](pricing.md).
+See toolbox [license package](../pricing.md).
 
 [Contact Sale :fontawesome-solid-paper-plane:](https://t.me/khmergrsacademy){ .md-button target="_blank" rel="noopener"}
 

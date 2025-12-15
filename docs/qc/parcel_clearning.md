@@ -1,6 +1,6 @@
 ## Goal
 
-
+Standardizes land parcel attribute fields to meet MLMUPC requirements.
 
 ## Summary
 
@@ -52,6 +52,6 @@ Learn how to use the tool
 
 ## Purchase Toolbox
 
-See toolbox [license package](pricing.md).
+See toolbox [license package](../pricing.md).
 
 [Contact Sale :fontawesome-solid-paper-plane:](https://t.me/khmergrsacademy){ .md-button target="_blank" rel="noopener"}

@@ -44,7 +44,7 @@ __Khmer GRS Academy__ ប្រើប្រាស់បណ្តាញសង្�
 
 ## __ទំនាក់ទំនងព័ត៌មានបន្ថែម__
 
-- :fontawesome-solid-phone: __+855 81 373 833__
+- :fontawesome-solid-phone: +855 81 373 833
 - :fontawesome-solid-envelope: academy@khmergrs.com
 - :fontawesome-brands-telegram: [Admin Telegram](https://t.me/khmergrsacademy){:target="_blank"}
 

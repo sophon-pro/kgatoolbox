@@ -12,6 +12,7 @@ theme:
     - navigation.indexes
     - navigation.path
     - navigation.top
+    - navigation.footer
 
     # TOC
     - toc.follow
@@ -132,7 +133,6 @@ extra:
       link: https://linkedin.com/company/khmer-grs-academy
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/khmergrsacademy/
-
 
 copyright: |
   &copy; 2025
