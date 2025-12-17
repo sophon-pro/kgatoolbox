@@ -1,9 +1,4 @@
-## Goal
-
-Create ```Line Feature Class``` feature class from ```input polygon```.
-
 ## Summary
-
 This tool processes ```multiple polygon feature classes``` in a batch-like workflow. For each input __polygon dataset__, the tool extracts the ```polygon boundaries``` and converts them to __line feature classes__. 
 
 ![point to polygon ui](../assets/polygon_to_line_ui.png)

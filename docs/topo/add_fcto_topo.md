@@ -1,9 +1,4 @@
-## Goal
-
-Adding `Feature Classes` to an `existing Topology` and appy rules.
-
 ## Summary
-
 This tool is used to add feature class(es) and Rule to existing Topology. 
 
 There're three rules that were included.
@@ -13,9 +8,6 @@ There're three rules that were included.
 * Rule 3: `Must Not Overlap With (Area-Area)`
 
 ![point to polygon ui](../assets/add_fc_topo_ui.png)
-## Illustration
-
-![point to polygon](../assets/)
 
 ## Usage Note
 

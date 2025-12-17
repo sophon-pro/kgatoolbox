@@ -1,15 +1,10 @@
-## Goal
-
-Check the `overlap boundary` of two input polygons.
-
 ## Summary
-
 This tool checks the overlap between two polygon features. It used topology and a rule specified in that topology to check the existence of overlaps within the two boundaries. 
 
 ![point to polygon ui](../assets/bound_overlap_check_ui.png)
 ## Illustration
 
-![point to polygon](../assets/)
+![point to polygon](../assets/bound_overlap_check.png)
 
 ## Usage Note
 

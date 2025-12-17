@@ -1,15 +1,7 @@
-## Goal
-
-Check the `duplicate number` in `UPRN field` of any `land parcel layer`.
-
 ## Summary
-
 This tool is used to find duplicate value records in a selected numeric ID Field of land parcel feature class.
 
 ![point to polygon ui](../assets/parcel_dup_num_ui.png)
-## Illustration
-
-![point to polygon](../assets/)
 
 ## Usage Note
 

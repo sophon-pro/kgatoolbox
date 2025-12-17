@@ -1,9 +1,4 @@
-## Goal
-
-Add the same ```Field``` to multiple ```feature classes```.
-
 ## Summary
-
 This tool is used to add a new ```attribute field``` with a specific ```field type``` to multiple tables or feature classes in a single operation. 
 
 ![point to polygon ui](../assets/batch_addfield_ui.png)

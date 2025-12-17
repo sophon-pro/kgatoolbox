@@ -22,12 +22,64 @@ __Khmer GRS Academy (KGA)__ គឺជាស្ថាប័នអប់រំម�
 
 សេវាកម្មទាំងនេះនឹងជួយសម្រួលដល់អាជីវកម្ម អ្នកស្រាវជ្រាវ និងស្ថាប័ន ធ្វើការលើទិន្នន័យភូមិសាស្ត្របានយ៉ាងមានប្រសិទ្ធភាព។
 
-![mapping image](assets/mapping.png)
+ខាងក្រោមនេះជាគម្រូផែនទីដែលយើងបានបង្ហាត់បង្រៀនដល់សិក្ខាកាមកន្លងមក<br>
+_**គម្រូផែនទីគម្របដី**_<br>
+![mapping image](assets/mapping1.jpg)
+
+??? information "ចុចមើលផែនទីច្រើនទៀត"
+    **_គម្រូផែនទីសេចក្តីព្រាងប្រើប្រាស់ដី_**<br> 
+    ![mapping image](assets/mapping.png)
+
+    _**គម្រូផែនទីរបាយទឹកភ្លៀង **_<br>
+    ![mapping image](assets/mapping3.jpg)
+
+    **_គម្រូផែនទីរដ្ឋបាល_**<br>
+    ![mapping image](assets/mapping4.jpg)
+
+    **_គម្រូផែនទីជំនាញផ្សេងៗ_**
+    ![mapping image](assets/mapping5.jpg)
+    ![mapping image](assets/mapping6.png)
+    ![mapping image](assets/mapping7.jpg)
+    ![mapping image](assets/mapping8.jpg)
 
 ### __ឱកាសអាហារូបករណ៍__
 ដើម្បីជំរុញការអប់រំ និងការប្រើប្រាស់ GIS​ កាន់តែទូលំទូលាយ, KGA បានផ្តល់អាហារូបករណ៍ដល់សិស្សនិស្សិតដែលបង្ហាញពីចំណាប់អារម្មណ៍ខ្លាំងលើផែនទី និងបច្ចេកវិទ្យាភូមិសាស្រ្ត។ រយៈពេលនៃការដំណើរការនេះមានគោលបំណងបណ្តុះអ្នកជំនាញ GIS ជំនាន់ក្រោយនៅកម្ពុជា។
 
+> សកម្មថ្នាក់សិក្សាអាហារូបករណ៍<br>
 ![scholarship](assets/scholarship.jpg)
+![scholarship](assets/scholarship2.jpg)
+![scholarship](assets/scholarship3.jpg)
+
+> រូបថតអនុស្សាវរិយ៍ថ្ងៃចែកវិញ្ញាណបនត្របញ្ជាក់ការសិក្សា<br>
+![scholarship](assets/scholarship1.png)
+
+### __សកម្មភាពក្នុងថ្នាក់សិក្សា__
+ថ្នាក់សិក្សារបស់យើង មានភាពចម្រុះនិងរស់រវើក ការសិក្សាបូកផ្សំទៅដោយមេរៀនទ្រឹស្តីដែលផ្តល់នូវមូលដ្ឋានចំណេះដឹងរឹងមាំដល់សិក្ខាកាម និងការអនុវត្តន៍ដោយប្រើប្រាស់ឧទារណ៍ក្នុងការងារជាក់ស្តែង។ 
+
+ជាលទ្ធផល សិក្ខាកាមទទួលបាននូវចំណេះដឹង និងជំនាញដែលអាចបំពេញការងារជាក់ស្តែងបានយ៉ាងមានប្រសិទ្ធភាព បូករួមហ្នឹងសមត្ថភាពជាមូលដ្ឋាន ដែលអាចជួយជម្រុញការសិក្សាស្រាវជ្រាវ និងស្វ័យសិក្សាបន្តបានប្រកបដោយប្រសិទ្ធភាព។
+
+> **ការសិក្សាមេរៀនទ្រឹស្តី**<br>
+![class](assets/class_activity_1.jpg)
+![class](assets/class_activity_3.jpg)
+
+??? information "ចុចមើលសកម្មភាពច្រើនទៀត"
+    > **ការអនុវត្តជាក់ស្តែង**<br>
+    ![class](assets/class_activity_2.jpg)
+    ![class](assets/class_activity_4.jpg)
+
+    > **ប្រលងបញ្ចប់វគ្គសិក្សា**<br>
+    ![class](assets/exam_1.jpg)
+    
+    > **វគ្គពិសេសជំនាញគ្រប់គ្រងក្បាលដី**<br>
+    ![class](assets/parcel_management_1.jpg)
+    ![class](assets/parcel_management_2.jpg)
+
+    > **វគ្គបណ្តុះជំនាញ GIS ជូនកងកម្លាំងយោធាដោយឥតគិតថ្លៃតាមប្រព័ន្ធអនឡាញ**<br>
+    ![class](assets/social_activity_1.jpg)
+    ![class](assets/social_activity_2.jpg)
+    ![class](assets/social_activity_3.jpg)
+    ![class](assets/social_activity_4.jpg)
+    ![class](assets/social_activity_5.jpg)
 
 ## __បណ្តាញសង្គមរបស់យើង__
 __Khmer GRS Academy__ ប្រើប្រាស់បណ្តាញសង្គមមួយចំនួនដើម្បីចែករំលែកចំណេះដឹង GIS រួមមាន

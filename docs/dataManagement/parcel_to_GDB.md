@@ -1,9 +1,4 @@
-## Goal
-
-Copy `parcel data` that share the same `village code` to `separate file geodatabase`.
-
 ## Summary
-
 This tool extracts parcel feature classes from an input database or feature dataset and copies them into a specified geodatabase location. This tool is designed specifically for land parcel data which the copy process can be done by extracting village code information directly from the data in the input database or feature dataset. 
 
 Feature classes with invalid names will not be copied.

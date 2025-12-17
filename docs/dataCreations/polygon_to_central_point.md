@@ -1,9 +1,4 @@
-## Goal
-
-Create ```central point``` feature class from ```input polygon```.
-
 ## Summary
-
 This tool converts ```polygon features``` into representative ```central points```. For each polygon, the tool determines a centroid and creates a corresponding point in the output feature class. There’s an option to retain all attributes or keep only the polygon ID and can optionally calculate __X/Y__ or __Lat/Lon__ fields based on the input Coordinate System. 
 
 The tool can also generate a separate coordinate table as well.

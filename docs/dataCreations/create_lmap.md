@@ -1,8 +1,4 @@
-## Goal
-Create a ```LMAP polygon layer``` with standard fields required by [MLMUPC](https://mlmupc.gov.kh/){:target="_blank"}
-
 ## Summary
-
 The __Create or Export LMAP Layer__ generates a new LMAP-compliant feature class or exports an existing LMAP layer to a new file geodatabase. This tool is designed to standardize parcel capture workflows, enforce data quality rules, and streamline digitization activities within land management and mapping environments. 
 
 This tool incorporates optional automation functions for unique identifiers, parcel numbering, and timestamp population. 

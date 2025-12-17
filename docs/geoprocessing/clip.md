@@ -1,15 +1,10 @@
-## Goal
-
-Clip `multiple polygons` feature classes by a `clip polygon feature class`.
-
 ## Summary
-
 This tool performs a spatial subset of one or more input feature classes or layers. It uses the geometry of the Clip Feature to cut the Input Features. Only the portions of the input features that fall within the boundaries of the clip feature are written in the output feature classes.
 
 ![point to polygon ui](../assets/clip_fc_ui.png)
 ## Illustration
 
-![point to polygon](../assets/)
+![point to polygon](../assets/multi_clip.png)
 
 ## Usage Note
 
@@ -27,9 +22,7 @@ This tool has some importances parameters as show in the table below.
 | Output_Location | The geodatabase or folder where the clipped feature classes will be stored. Output feature classes typically retain the original input names with the `_clip` suffix. | GPComposite |
 
 ## Tool Demo
-
 Learn how to use the tool
-
 <iframe
   width="100%"
   height="600"
@@ -41,7 +34,6 @@ Learn how to use the tool
 </iframe>
 
 ## Purchase Toolbox
-
 See toolbox [license package](../pricing.md).
 
 [Contact Sale :fontawesome-solid-paper-plane:](https://t.me/khmergrsacademy){ .md-button target="_blank" rel="noopener"}

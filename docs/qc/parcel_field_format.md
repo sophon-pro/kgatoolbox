@@ -1,15 +1,7 @@
-## Goal
-
-Check the `field format` of a land parcel layer.
-
 ## Summary
-
 This tool checks and standardizes the attribute field format of Land Parcel Polygon which is required by MLMUPC. If any field of the standard attribute field is missing from the input parcel layer. The tool creates the field for it. It also checks the field properties as well.
 
 ![point to polygon ui](../assets/check_field_format_ui.png)
-## Illustration
-
-![point to polygon](../assets/)
 
 ## Usage Note
 

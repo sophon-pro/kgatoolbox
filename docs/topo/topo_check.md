@@ -1,9 +1,4 @@
-## Goal
-
-Check the `gap and overlap` of the input feature classes.
-
 ## Summary
-
 The Topology Check tool evaluates the spatial integrity of one or more feature classes by applying topology rules within a feature dataset. It automatically generates a topology, applies rules, and validates the input features. This tool has ability to check the gap and overlap between features themselves and the overlap between input polygons.
 
 ![point to polygon ui](../assets/topo_check_ui.png)

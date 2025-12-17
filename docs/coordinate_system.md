@@ -1,9 +1,5 @@
 ## __Indian To WGS 1984 UTM Converter__
-
-## Goal
-Project Dataset from `Indian Datum` to `WGS 1984 UTM Zone 48N` and vise versa.
-
-## Summary
+### Summary
 Projects spatial datasets between `Indian datums` (Indian 1954, 1960, and 1975) and `WGS 1984 coordinate systems`, supporting both `geographic (GCS)` and `projected (UTM Zone 48N)` transformations. This tool enabled seamless integration of spatial datasets stored in legacy Indian datums with modern WGS84 datasets (and vice versa). 
 
 ![Indian to WGS 1984 UTM Converter](assets/indian_utm.png)

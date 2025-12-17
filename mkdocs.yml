@@ -57,7 +57,7 @@ nav:
           - Polygon to Point-Line for Map Series: dataCreations/polygon_pointline_mapseries.md
       - Data Management: 
           - Data Management Toolset: dataManagement/data_management.md
-          - Batch Add Feild: dataManagement/batch_add_field.md
+          - Batch Add Field: dataManagement/batch_add_field.md
           - Copy Parcels to GDB: dataManagement/parcel_to_GDB.md
           - Count Feature: dataManagement/count_feature.md
           - Export Table to CSV: dataManagement/table_to_csv.md

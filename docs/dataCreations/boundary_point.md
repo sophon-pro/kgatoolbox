@@ -1,6 +1,3 @@
-## Goal
-Create ```boundary point``` from an input ```polygon boundary```.
-
 ## Summary
 __Boundary Point Tool__ converts polygon boundaries into point features representing each vertex along the polygon’s perimeter. It is designed to support land parcel management, topology validation, and boundary-based analyses by generating accurate, georeferenced point features from polygon geometries. 
 

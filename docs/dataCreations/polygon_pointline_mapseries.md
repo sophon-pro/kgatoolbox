@@ -1,9 +1,4 @@
-## Goal
-
-Create ```Point Feature Class``` and ```Line Feature Class``` feature class from ```input polygon``` specifically for __Map Series__.
-
 ## Summary
-
 This tool generates ```unique point identifiers``` and ```line feature class``` for a given ```polygon feature class```. The tool is useful for creating point and line-based map series, indexing parcels, and spatially identifying features.
 
 ![point to polygon ui](../assets/polygon_point_line_mapseries_ui.png)

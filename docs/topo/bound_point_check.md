@@ -1,9 +1,4 @@
-## Goal
-
-Check the `consistency of point` along the `boundaries` of polygon feature class.
-
 ## Summary
-
 This tool checks the spatial relationship between point features and a defined boundary feature. It identifies points that fall inside, outside, or directly on the boundary and reports all points that violate the intended positional constraints. 
 
 This tool uses a topology rule to ensure consistent and repeatable spatial validation.
@@ -11,7 +6,7 @@ This tool uses a topology rule to ensure consistent and repeatable spatial valid
 ![point to polygon ui](../assets/bound_point_check_ui.png)
 ## Illustration
 
-![point to polygon](../assets/)
+![point to polygon](../assets/bound_point.png)
 
 ## Usage Note
 

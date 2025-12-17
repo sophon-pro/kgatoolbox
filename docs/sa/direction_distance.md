@@ -1,15 +1,7 @@
-## Goal
-
-Calculate `Direction` and `Distance` between two input `point coordinates`.
-
 ## Summary
-
 This tool is used to calculate the direction (Naz or QB) and distance between two points based on the input coordinate (projected coordinate or geographic coordinate). This tool has two process modes: calculating based on user input and using coordinate table.
 
 ![point to polygon ui](../assets/p2p_direction_distance_ui.png)
-## Illustration
-
-![point to polygon](../assets/)
 
 ## Usage Note
 

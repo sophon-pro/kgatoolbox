@@ -1,15 +1,7 @@
-## Goal
-
-Calculate the `percentage coverage` of sub-feature classes within the boundary of the `main feature class`.
-
 ## Summary
-
 This tool is used to calculate the coverage percentage of the input feature class(es) over any boundary.
 
 ![point to polygon ui](../assets/percent_coverage_ui.png)
-## Illustration
-
-![point to polygon](../assets/)
 
 ## Usage Note
 

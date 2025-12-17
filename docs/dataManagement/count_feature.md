@@ -1,9 +1,4 @@
-## Goal
-
-Count the ```total features``` within the input ```feature classes```.
-
 ## Summary
-
 This tool `counts features` in multiple `feature classes` and optionally exports the results to a CSV file.
 
 ![point to polygon ui](../assets/count_feature_ui.png)

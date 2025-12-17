@@ -1,9 +1,4 @@
-## Goal
-
-Modify `land parcel boundaries` by removing areas intersecting the `road edge`.
-
 ## Summary
-
 This tool is designed for cadastral and land-parcel management workflows where parcel boundaries must be trimmed to align with road edges. It generates a road buffer using either a fixed linear distance or an attribute field from the road centerline layer. 
 
 The buffer is used to erase the overlapped area from the input land parcels. Optional outputs include generating the actual road-edge buffer polyline and appending it back into the road layer for further use.
@@ -11,7 +6,7 @@ The buffer is used to erase the overlapped area from the input land parcels. Opt
 ![point to polygon ui](../assets/road_trim_ui.png)
 ## Illustration
 
-![point to polygon](../assets/)
+![point to polygon](../assets/trim_parcel_by_road.png)
 
 ## Usage Note
 

@@ -1,9 +1,4 @@
-## Goal
-
-Export `table` base on an `ID field` to `separate csv file`.
-
 ## Summary
-
 This tool reads the records of an input feature or table and outputs the data into a standard CSV format. It offers an option to include a custom "Remark" column with a specified value for all records.
 
 ![point to polygon ui](../assets/export_to_csv_ui.png)

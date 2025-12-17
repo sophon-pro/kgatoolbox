@@ -1,15 +1,7 @@
-## Goal
-
-Check the `overall state` of parcel number in a land parcel layer.
-
 ## Summary
-
 This tool is used to check the land parcel number information. The information to check includes total parcel feature, start and end parcen number, total duplicate number, and total missing number. Parcel number information can be exported as report in text file.
 
 ![point to polygon ui](../assets/parcel_num_anal_ui.png)
-## Illustration
-
-![point to polygon](../assets/)
 
 ## Usage Note
 

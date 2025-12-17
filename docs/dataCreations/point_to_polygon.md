@@ -1,9 +1,4 @@
-## Goal
-
-Convert ```ordered point feature class``` to ```Polygon feature class```.
-
 ## Summary
-
 This tool converts a set of ordered point features into a polygon and/or line feature. The order is controlled by a numeric field within the input data. 
 
 The input points can be an existing feature class or a CSV file. If the input is a __CSV file__, defining ```X``` and ```Y fields``` is a must to create a point feature first before constructing polygon and line feature class.

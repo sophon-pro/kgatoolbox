@@ -1,15 +1,7 @@
-## Goal
-
-Standardizes land parcel attribute fields to meet MLMUPC requirements.
-
 ## Summary
-
 This tool is used to standardize the attribute fields of land parcel layer to meet the requirement of MLMUPC. Those standard fields include ProDiCoVi (as text), UPRN (as short integer), parcel_no (as text), entry_dt (as date), update_dt (as date), history_dt (as date), status (as short integer), and digitizer (as text).
 
 ![point to polygon ui](../assets/parcel_cleaning.png)
-## Illustration
-
-![point to polygon](../assets/)
 
 ## Usage Note
 

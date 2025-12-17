@@ -1,15 +1,10 @@
-## Goal
-
-Checks for `overlapping land parcels` across one or multiple layers, providing a fast and `efficient` alternative to topology-based validation.
-
 ## Summary
-
 This tool is used to check the overlapping of land parcels. It can check one or more layers simultaneously. In addition to the usage of Topology, this tool facilitates the process of checking overlapped land parcels quickly and effectively. 
 
 ![parcel overlap check](../assets/parcel_overlap_check_ui.png)
 ## Illustration
 
-![point to polygon](../assets/)
+![point to polygon](../assets/parcel_overlap_check.png)
 
 ## Usage Note
 

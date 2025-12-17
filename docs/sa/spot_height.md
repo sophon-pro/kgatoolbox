@@ -1,15 +1,10 @@
-## Goal
-
-Generate `spot height` (point with elevation value) from an input `raster (DEM)` data.
-
 ## Summary
-
 This tool is used to generate spot height data by extracting elevation value from DEM data. This tool can create spot height data for any region of interest or using existing point. It finally outputs the point data which the attributes contain elevation value and coordinate field.
 
 ![point to polygon ui](../assets/spot_height_ui.png)
 ## Illustration
 
-![point to polygon](../assets/)
+![point to polygon](../assets/spot_height_gen.png)
 
 ## Usage Note
 

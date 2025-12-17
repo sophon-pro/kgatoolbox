@@ -1,15 +1,20 @@
-## Goal
-
-Generate concentric buffer zones at `multiple distances` around the input feature class.
-
 ## Summary
 
 This tool creates a set of buffer polygons (rings) at specified distances around input features. 
 
 ![point to polygon ui](../assets/multiring_buffer_ui.png)
 ## Illustration
+> Input is Point Feature Class
 
-![point to polygon](../assets/)
+![point to polygon](../assets/point_buff.png)
+
+> Input is Line Feature Class
+
+![point to polygon](../assets/line_buff.png)
+
+> Input is Polygon Feature Class
+
+![point to polygon](../assets/polygon_buff.png)
 
 ## Usage Note
 
